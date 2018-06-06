@@ -1,0 +1,20 @@
+{
+  "name": "haonv01/magegiftcard",
+  "description": "",
+  "type": "magento-2-module",
+  "version": "1.5.0",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Magento 2 Gift Card",
+      "email": "haonv@mageplaza.com",
+      "homepage": "https://magegiftcard.com/",
+      "role": "Founder"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
