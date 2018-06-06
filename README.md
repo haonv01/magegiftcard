@@ -1,6 +1,6 @@
 ## Why choose Magento 2 Gift card?
 
-No more meaningful present than the one which is made by You Your customers are free to choose the best gift when Magecheckout Gift card for Magento 2 provides about 300 gift card templates with different topics such as New Year, Valentine, Christmas, and so on.
+No more meaningful present than the one which is made by You Your customers are free to choose the best gift when <a href="https://magegiftcard.com/">Magento Gift card extension</a> provides about 300 gift card templates with different topics such as New Year, Valentine, Christmas, and so on.
 
 If the available images are not the great idea for a surprising gift, they will upload personal pictures possibly by dragging and dropping the needed files.
 
